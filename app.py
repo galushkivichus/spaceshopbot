@@ -5,7 +5,7 @@ from aiogram import executor
 from logging import basicConfig, INFO
 from data.config import ADMINS
 from loader import dp, db, bot
-
+import handlers
 
 
 
